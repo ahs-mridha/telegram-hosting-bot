@@ -1,0 +1,9 @@
+BOT_TOKEN = "8599551370:AAFazy-gyIfB37vJT7Qa9k0hnSqkeJfT8CI"
+OWNER_ID = 123456789
+
+MAX_BOTS_PER_DAY = 4
+MAX_IMAGES_PER_DAY = 50
+
+BOT_FOLDER = "storage/bots/"
+IMAGE_FOLDER = "storage/images/"
+FILE_FOLDER = "storage/files/"
